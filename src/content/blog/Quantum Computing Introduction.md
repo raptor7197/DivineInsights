@@ -1,7 +1,7 @@
 ---
 title: Introduction to Quantum Computing 
 author: Vamsi Krishna
-pubDatetime: 2024-10-18T21:22:00Z 
+pubDatetime: 2024-10-22T19:48:52.272Z 
 slug: quantum-computing
 featured: false
 draft: false
